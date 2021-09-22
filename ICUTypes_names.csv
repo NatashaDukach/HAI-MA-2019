@@ -1,0 +1,20 @@
+﻿ICUType,ICU Group,ICU Status,ICU Count
+Burn ICU,Specialty,ICU,1
+Cardiac ICU,Cardiac,ICU,7
+Cardiothoracic ICU,Cardiac,ICU,10
+Medical ICU (major teaching),Medical,ICU,12
+Medical ICU (not major teaching),Medical,ICU,5
+Medical Ward (major teaching),Medical,Ward,19
+Medical Ward (not major teaching),Medical,Ward,9
+Medical/Surgical ICU (major teaching),Medical/Surgical,ICU,11
+Medical/Surgical ICU (not major teaching),Medical/Surgical,ICU,35
+Medical/Surgical Ward (major teaching),Medical/Surgical,Ward,12
+Medical/Surgical Ward (not major teaching),Medical/Surgical,Ward,38
+Neonatal ICU,Specialty,ICU,10
+Neurologic ICU,Specialty,ICU,1
+Neurosurgical ICU,Specialty,ICU,3
+Pediatric ICU,Pediatric,ICU,7
+Pediatric Ward,Pediatric,Ward,20
+Surgical ICU,Surgical,ICU,10
+Surgical Ward,Surgical,Ward,22
+Trauma ICU,Specialty,ICU,3

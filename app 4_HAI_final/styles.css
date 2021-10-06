@@ -1,0 +1,140 @@
+input[type="number"] {
+  max-width: 80%;
+}
+
+div.outer {
+  position: fixed;
+  top: 41px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+/* Customize fonts */
+body, label, input, button, select { 
+  font-family: 'Helvetica Neue', Helvetica;
+  font-weight: 200;
+
+}
+h1, h2, h3, h5{ 
+  font-weight: 400;
+  font-size: 16px;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 16px;
+  color: #457b9d;
+}
+
+p {font-size: 16px;
+  font-family: Arial;
+}
+
+
+.myDivIcon {
+  text-align: center; /* Horizontally center the text (icon) */
+  line-height: 20px; /* Vertically center the text (icon) */
+}
+
+.legend i {
+  width: 16px;
+  height: 16px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+
+.navbar-header {
+  font-weight: bold;
+}
+
+.navbar-brand {
+}
+
+.navbar-nav:first-of-type{
+  font-size: 1.5rem;
+}
+
+
+
+.modal-dialog { width: fit-content !important; }
+
+
+.myMarker {
+height: 100px;
+width: 20px;
+}
+
+.nav-tabs {
+  background-color: none !important;
+  font-size: 14px;
+}
+.nav-tabs li.active > a, li.active:hover > a {
+  background-color: none !important;
+}
+
+.navbar-nav li:not(.active) > a:hover{
+  background-color:#d8dbe2;
+}
+.navbar-nav li.active > a, li.active:hover > a, li.active:focus > a{
+  background-color: #d8dbe2 !important;
+  border-bottom: 1px solid #E41A1C;
+}
+
+.nav a{
+    font-size: 14px !important;
+    }
+    
+#controls {
+  /* Appearance */
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.65;
+  zoom: 0.9;
+  transition: opacity 500ms 1s;
+}
+#controls:hover {
+  /* Fade in while hovering */
+  opacity: 0.95;
+  transition-delay: 0;
+}
+
+/* Position and style citation */
+#cite {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  font-size: 12px;
+}
+
+/* If not using map tiles, show a white background */
+.leaflet-container {
+  background-color: white !important;
+}
+
+
+/* Mobile phone only CSS */
+
+.desktop-layout div.section.mobile {
+  display: none;
+}
+
+.mobile-layout div.section.no-mobile {
+  display: none;
+}
+
+.mobile-figure {
+  display: none;
+}
+
+.leaflet-popup-content-wrapper{
+    background: white;
+    color: black;
+    padding: 2px;
+border-radius: 0px;
+    }

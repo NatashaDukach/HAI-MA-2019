@@ -1,0 +1,226 @@
+,OrgID,H9ICUType_CAUTI,H9ICAUTINum,H9CathDays
+1,10482,Cardiac ICU,0,1021
+2,10482,Cardiothoracic ICU,2,1420
+3,10482,Medical ICU (major teaching),1,2050
+4,10482,Neurologic ICU,3,430
+5,10482,Pediatric ICU,0,148
+6,10482,Surgical ICU,2,1780
+7,10482,Medical Ward (major teaching),6,3127
+8,10482,Medical/Surgical Ward (major teaching),1,1147
+9,10482,Pediatric Ward,0,36
+10,10482,Surgical Ward,2,4670
+11,11303,Cardiothoracic ICU,1,3026
+12,11303,Medical ICU (major teaching),2,6938
+13,11303,Pediatric ICU,2,207
+14,11303,Surgical ICU,1,3072
+15,11303,Trauma ICU,1,3491
+16,11303,Medical Ward (major teaching),6,4941
+17,11303,Medical/Surgical Ward (major teaching),1,1408
+18,11303,Pediatric Ward,0,81
+19,11303,Surgical Ward,5,2892
+20,11558,Cardiac ICU,0,1185
+21,11558,Cardiothoracic ICU,2,2074
+22,11558,Medical ICU (major teaching),2,1510
+23,11558,Neurosurgical ICU,5,1220
+24,11558,Pediatric ICU,0,291
+25,11558,Surgical ICU,2,1943
+26,11558,Medical Ward (major teaching),1,1337
+27,11558,Medical/Surgical Ward (major teaching),0,623
+28,11558,Pediatric Ward,0,74
+29,11558,Surgical Ward,2,2421
+30,11571,Medical/Surgical ICU (not major teaching),2,2274
+31,11571,Medical Ward (not major teaching),1,2760
+32,11571,Pediatric Ward,0,0
+33,11571,Surgical Ward,1,1141
+34,12468,Medical/Surgical ICU (not major teaching),1,3528
+35,12468,Medical/Surgical Ward (not major teaching),1,3686
+36,12468,Pediatric Ward,0,9
+37,12515,Cardiothoracic ICU,0,1457
+38,12515,Medical/Surgical ICU (not major teaching),5,1738
+39,12515,Medical/Surgical Ward (not major teaching),9,4406
+40,12515,Pediatric Ward,0,13
+41,12515,Surgical Ward,2,1790
+42,12516,Medical/Surgical ICU (not major teaching),1,1614
+43,12516,Medical/Surgical Ward (not major teaching),1,1965
+44,12516,Pediatric Ward,0,0
+45,12538,Medical/Surgical ICU (major teaching),0,2242
+46,12538,Medical Ward (major teaching),3,3007
+47,12538,Pediatric Ward,0,0
+48,12538,Surgical Ward,0,889
+49,12568,Burn ICU,1,650
+50,12568,Cardiac ICU,7,3614
+51,12568,Cardiothoracic ICU,4,4682
+52,12568,Medical ICU (major teaching),4,4798
+53,12568,Neurosurgical ICU,15,4420
+54,12568,Pediatric ICU,1,615
+55,12568,Surgical ICU,11,8741
+56,12568,Medical Ward (major teaching),8,11604
+57,12568,Pediatric Ward,0,362
+58,12568,Surgical Ward,4,7543
+59,12574,Medical/Surgical ICU (not major teaching),0,665
+60,12574,Medical/Surgical Ward (not major teaching),0,771
+61,12576,Medical/Surgical ICU (not major teaching),1,1568
+62,12576,Surgical ICU,0,890
+63,12576,Medical/Surgical Ward (not major teaching),3,3615
+64,12578,Cardiac ICU,2,1224
+65,12578,Cardiothoracic ICU,0,955
+66,12578,Medical ICU (not major teaching),1,1293
+67,12578,Medical/Surgical Ward (not major teaching),7,3580
+68,12582,Medical/Surgical ICU (not major teaching),2,2073
+69,12582,Medical Ward (not major teaching),2,1774
+70,12582,Medical/Surgical Ward (not major teaching),2,1949
+71,12588,Medical/Surgical ICU (not major teaching),0,1034
+72,12588,Medical Ward (not major teaching),0,203
+73,12588,Medical/Surgical Ward (not major teaching),0,2512
+74,12588,Pediatric Ward,0,0
+75,12596,Cardiac ICU,4,2013
+76,12596,Cardiothoracic ICU,3,5737
+77,12596,Medical ICU (major teaching),3,4572
+78,12596,Surgical ICU,22,7631
+79,12596,Medical Ward (major teaching),6,2711
+80,12596,Medical/Surgical Ward (major teaching),8,3325
+81,12596,Surgical Ward,11,11110
+82,12598,Medical/Surgical ICU (not major teaching),0,935
+83,12598,Medical/Surgical Ward (not major teaching),0,760
+84,12599,Cardiothoracic ICU,0,398
+85,12599,Medical/Surgical ICU (major teaching),7,6154
+86,12599,Medical/Surgical Ward (major teaching),5,2595
+87,12599,Surgical Ward,2,1385
+88,12600,Medical/Surgical ICU (not major teaching),2,1352
+89,12600,Medical Ward (not major teaching),2,1806
+90,12600,Medical/Surgical Ward (not major teaching),0,54
+91,12601,Medical/Surgical ICU (not major teaching),1,1288
+92,12601,Medical/Surgical Ward (not major teaching),1,1080
+93,12618,Medical ICU (major teaching),0,240
+94,12618,Medical/Surgical ICU (major teaching),2,1279
+95,12618,Medical Ward (major teaching),4,2423
+96,12618,Pediatric Ward,0,21
+97,12618,Surgical Ward,0,1011
+98,12619,Medical/Surgical ICU (not major teaching),1,979
+99,12619,Medical/Surgical Ward (not major teaching),0,1137
+100,12622,Medical/Surgical ICU (not major teaching),1,3022
+101,12622,Medical/Surgical Ward (not major teaching),3,4875
+102,12630,Cardiac ICU,1,493
+103,12630,Medical ICU (major teaching),2,1385
+104,12630,Pediatric ICU,0,49
+105,12630,Surgical ICU,7,3426
+106,12630,Trauma ICU,0,0
+107,12630,Medical Ward (major teaching),3,1924
+108,12630,Pediatric Ward,0,10
+109,12630,Surgical Ward,3,2315
+110,12643,Medical/Surgical ICU (not major teaching),1,2276
+111,12643,Medical/Surgical Ward (not major teaching),1,4770
+112,12654,Medical/Surgical ICU (not major teaching),2,1425
+113,12654,Medical Ward (not major teaching),0,1088
+114,12654,Surgical Ward,0,857
+115,12670,Medical/Surgical ICU (not major teaching),1,1286
+116,12670,Medical/Surgical Ward (not major teaching),2,2704
+117,12674,Medical/Surgical ICU (not major teaching),1,3909
+118,12674,Medical Ward (not major teaching),1,336
+119,12674,Medical/Surgical Ward (not major teaching),1,2135
+120,12674,Surgical Ward,1,790
+121,12679,Cardiothoracic ICU,1,1182
+122,12679,Medical ICU (major teaching),4,6208
+123,12679,Surgical ICU,7,3716
+124,12679,Medical Ward (major teaching),8,6993
+125,12679,Medical/Surgical Ward (major teaching),7,4423
+126,12679,Surgical Ward,2,1811
+127,12685,Medical/Surgical ICU (not major teaching),0,1011
+128,12685,Medical/Surgical Ward (not major teaching),1,907
+129,12686,Medical ICU (not major teaching),0,809
+130,12686,Medical/Surgical Ward (not major teaching),0,1184
+131,12698,Pediatric ICU,8,4155
+132,12698,Pediatric Ward,2,2093
+133,12700,Medical/Surgical ICU (not major teaching),5,2426
+134,12700,Medical/Surgical Ward (not major teaching),5,3428
+135,12703,Medical/Surgical ICU (major teaching),5,1882
+136,12703,Medical Ward (major teaching),1,599
+137,12703,Surgical Ward,0,987
+138,12705,Pediatric ICU,2,473
+139,12708,Medical/Surgical ICU (not major teaching),0,126
+140,12708,Medical/Surgical Ward (not major teaching),0,474
+141,12709,Medical/Surgical ICU (not major teaching),1,715
+142,12714,Medical/Surgical ICU (not major teaching),1,372
+143,12714,Medical/Surgical Ward (not major teaching),1,848
+144,12751,Medical/Surgical Ward (not major teaching),0,359
+145,12752,Medical/Surgical ICU (major teaching),0,407
+146,12752,Medical Ward (major teaching),0,448
+147,12752,Medical/Surgical Ward (major teaching),1,1200
+148,12752,Pediatric Ward,0,0
+149,12752,Surgical Ward,0,810
+150,12778,Medical/Surgical ICU (major teaching),0,463
+151,12778,Medical Ward (major teaching),2,1224
+152,12793,Medical/Surgical ICU (major teaching),5,2449
+153,12793,Medical/Surgical Ward (major teaching),1,2671
+154,12793,Pediatric Ward,0,9
+155,12808,Medical/Surgical ICU (not major teaching),1,4002
+156,12808,Medical/Surgical Ward (not major teaching),7,6012
+157,12808,Pediatric Ward,0,2
+158,12808,Surgical Ward,0,265
+159,12833,Medical ICU (not major teaching),0,277
+160,12837,Medical/Surgical ICU (not major teaching),0,870
+161,12837,Medical/Surgical Ward (not major teaching),1,1070
+162,12837,Surgical Ward,0,248
+163,12866,Medical/Surgical ICU (not major teaching),0,673
+164,12866,Medical/Surgical Ward (not major teaching),0,1300
+165,12875,Medical ICU (major teaching),0,1226
+166,12875,Medical Ward (major teaching),0,1223
+167,12955,Medical/Surgical ICU (major teaching),4,711
+168,12955,Medical Ward (major teaching),3,1937
+169,12955,Medical/Surgical Ward (major teaching),1,206
+170,12955,Surgical Ward,1,796
+171,13000,Cardiac ICU,2,1064
+172,13000,Cardiothoracic ICU,1,2912
+173,13000,Medical ICU (major teaching),5,2545
+174,13000,Medical/Surgical ICU (major teaching),2,1325
+175,13000,Neurosurgical ICU,3,1106
+176,13000,Surgical ICU,0,1386
+177,13000,Trauma ICU,3,1860
+178,13000,Medical Ward (major teaching),9,4145
+179,13000,Surgical Ward,4,2922
+180,13022,Medical/Surgical ICU (not major teaching),1,577
+181,13022,Medical/Surgical Ward (not major teaching),1,613
+182,13022,Pediatric Ward,0,5
+183,13091,Medical/Surgical ICU (not major teaching),0,2114
+184,13091,Medical/Surgical Ward (not major teaching),2,843
+185,13098,Medical/Surgical Ward (not major teaching),0,422
+186,13098,Pediatric Ward,0,4
+187,13116,Medical ICU (major teaching),1,2470
+188,13116,Medical Ward (major teaching),6,3784
+189,13116,Medical/Surgical Ward (major teaching),0,619
+190,13174,Medical ICU (not major teaching),0,1050
+191,13174,Medical Ward (not major teaching),0,1169
+192,13189,Medical/Surgical ICU (not major teaching),0,92
+193,13189,Medical/Surgical Ward (not major teaching),0,226
+194,13201,Medical/Surgical ICU (not major teaching),3,1314
+195,13201,Medical/Surgical Ward (not major teaching),2,1864
+196,13201,Pediatric Ward,0,8
+197,13206,Medical/Surgical Ward (not major teaching),0,58
+198,13206,Pediatric Ward,0,0
+199,13213,Medical/Surgical ICU (not major teaching),0,415
+200,13213,Medical/Surgical Ward (not major teaching),0,1252
+201,13215,Medical/Surgical ICU (not major teaching),0,946
+202,13215,Medical/Surgical Ward (not major teaching),1,1278
+203,13230,Medical/Surgical ICU (not major teaching),0,922
+204,13230,Medical Ward (not major teaching),0,972
+205,13230,Medical/Surgical Ward (not major teaching),0,393
+206,13230,Surgical Ward,0,797
+207,13290,Medical/Surgical ICU (not major teaching),0,260
+208,13290,Medical/Surgical Ward (not major teaching),0,393
+209,13298,Medical/Surgical ICU (major teaching),2,1245
+210,13298,Medical/Surgical Ward (major teaching),5,2831
+211,13301,Medical/Surgical ICU (not major teaching),0,726
+212,13301,Medical/Surgical Ward (not major teaching),0,906
+213,13309,Medical/Surgical ICU (not major teaching),2,360
+214,13309,Medical/Surgical Ward (not major teaching),0,618
+215,13348,Medical/Surgical ICU (major teaching),9,4989
+216,13348,Medical/Surgical Ward (major teaching),2,6629
+217,13381,Medical/Surgical Ward (not major teaching),0,490
+218,14175,Medical ICU (not major teaching),0,274
+219,14175,Medical Ward (not major teaching),0,582
+220,14360,Medical Ward (major teaching),0,113
+221,53639,Medical ICU (major teaching),0,2422
+222,53639,Surgical ICU,0,1092
+223,53639,Medical Ward (major teaching),5,4410
+224,53639,Surgical Ward,2,2117
+225,57659,Medical Ward (major teaching),0,87

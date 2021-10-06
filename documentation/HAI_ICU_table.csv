@@ -1,0 +1,236 @@
+"","IDX","OrgID","ICUType","CLABSINum","CLABSIDays","CAUTINum","CAUTIDays","ICURowID"
+"1","10482Cardiac ICU",10482,"Cardiac ICU",2,910,0,1021,1
+"2","10482Cardiothoracic ICU",10482,"Cardiothoracic ICU",0,1559,2,1420,2
+"3","10482Medical ICU (major teaching)",10482,"Medical ICU (major teaching)",3,1782,1,2050,3
+"4","10482Medical Ward (major teaching)",10482,"Medical Ward (major teaching)",7,4527,6,3127,4
+"5","10482Medical/Surgical Ward (major teaching)",10482,"Medical/Surgical Ward (major teaching)",0,978,1,1147,5
+"6","10482Neonatal ICU",10482,"Neonatal ICU",4,2293,NA,NA,6
+"7","10482Neurologic ICU",10482,"Neurologic ICU",0,428,3,430,7
+"8","10482Pediatric ICU",10482,"Pediatric ICU",1,208,0,148,8
+"9","10482Pediatric Ward",10482,"Pediatric Ward",1,814,0,36,9
+"10","10482Surgical ICU",10482,"Surgical ICU",0,1288,2,1780,10
+"11","10482Surgical Ward",10482,"Surgical Ward",4,5535,2,4670,11
+"12","11303Cardiothoracic ICU",11303,"Cardiothoracic ICU",0,2862,1,3026,12
+"13","11303Medical ICU (major teaching)",11303,"Medical ICU (major teaching)",1,5095,2,6938,13
+"14","11303Medical Ward (major teaching)",11303,"Medical Ward (major teaching)",0,6971,6,4941,14
+"15","11303Medical/Surgical Ward (major teaching)",11303,"Medical/Surgical Ward (major teaching)",2,1962,1,1408,15
+"16","11303Pediatric ICU",11303,"Pediatric ICU",0,311,2,207,16
+"17","11303Pediatric Ward",11303,"Pediatric Ward",1,1430,0,81,17
+"18","11303Surgical ICU",11303,"Surgical ICU",2,3269,1,3072,18
+"19","11303Surgical Ward",11303,"Surgical Ward",0,3586,5,2892,19
+"20","11303Trauma ICU",11303,"Trauma ICU",2,2101,1,3491,20
+"21","11558Cardiac ICU",11558,"Cardiac ICU",3,1336,0,1185,21
+"22","11558Cardiothoracic ICU",11558,"Cardiothoracic ICU",0,1977,2,2074,22
+"23","11558Medical ICU (major teaching)",11558,"Medical ICU (major teaching)",4,0,2,1510,23
+"24","11558Medical Ward (major teaching)",11558,"Medical Ward (major teaching)",0,812,1,1337,24
+"25","11558Medical/Surgical Ward (major teaching)",11558,"Medical/Surgical Ward (major teaching)",1,530,0,623,25
+"26","11558Neonatal ICU",11558,"Neonatal ICU",4,1955,NA,NA,26
+"27","11558Neurosurgical ICU",11558,"Neurosurgical ICU",0,525,5,1220,27
+"28","11558Pediatric ICU",11558,"Pediatric ICU",0,2160,0,291,28
+"29","11558Pediatric Ward",11558,"Pediatric Ward",0,1773,0,74,29
+"30","11558Surgical ICU",11558,"Surgical ICU",0,2630,2,1943,30
+"31","11558Surgical Ward",11558,"Surgical Ward",0,2215,2,2421,31
+"32","11571Medical Ward (not major teaching)",11571,"Medical Ward (not major teaching)",1,937,1,2760,32
+"33","11571Medical/Surgical ICU (not major teaching)",11571,"Medical/Surgical ICU (not major teaching)",1,2288,2,2274,33
+"34","11571Pediatric Ward",11571,"Pediatric Ward",0,430,0,0,34
+"35","11571Surgical Ward",11571,"Surgical Ward",0,2388,1,1141,35
+"36","12468Medical/Surgical ICU (not major teaching)",12468,"Medical/Surgical ICU (not major teaching)",1,2519,1,3528,36
+"37","12468Medical/Surgical Ward (not major teaching)",12468,"Medical/Surgical Ward (not major teaching)",2,2378,1,3686,37
+"38","12468Pediatric Ward",12468,"Pediatric Ward",0,49,0,9,38
+"39","12515Cardiothoracic ICU",12515,"Cardiothoracic ICU",0,987,0,1457,39
+"40","12515Medical/Surgical ICU (not major teaching)",12515,"Medical/Surgical ICU (not major teaching)",1,1088,5,1738,40
+"41","12515Medical/Surgical Ward (not major teaching)",12515,"Medical/Surgical Ward (not major teaching)",4,2883,9,4406,41
+"42","12515Pediatric Ward",12515,"Pediatric Ward",0,3,0,13,42
+"43","12515Surgical Ward",12515,"Surgical Ward",0,507,2,1790,43
+"44","12516Medical/Surgical ICU (not major teaching)",12516,"Medical/Surgical ICU (not major teaching)",1,973,1,1614,44
+"45","12516Medical/Surgical Ward (not major teaching)",12516,"Medical/Surgical Ward (not major teaching)",1,1749,1,1965,45
+"46","12516Pediatric Ward",12516,"Pediatric Ward",0,0,0,0,46
+"47","12538Medical Ward (major teaching)",12538,"Medical Ward (major teaching)",0,2801,3,3007,47
+"48","12538Medical/Surgical ICU (major teaching)",12538,"Medical/Surgical ICU (major teaching)",0,1243,0,2242,48
+"49","12538Pediatric Ward",12538,"Pediatric Ward",0,3,0,0,49
+"50","12538Surgical Ward",12538,"Surgical Ward",0,546,0,889,50
+"51","12568Burn ICU",12568,"Burn ICU",3,850,1,650,51
+"52","12568Cardiac ICU",12568,"Cardiac ICU",1,4149,7,3614,52
+"53","12568Cardiothoracic ICU",12568,"Cardiothoracic ICU",3,5210,4,4682,53
+"54","12568Medical ICU (major teaching)",12568,"Medical ICU (major teaching)",1,4337,4,4798,54
+"55","12568Medical Ward (major teaching)",12568,"Medical Ward (major teaching)",7,18579,8,11604,55
+"56","12568Neonatal ICU",12568,"Neonatal ICU",0,1453,NA,NA,56
+"57","12568Neurosurgical ICU",12568,"Neurosurgical ICU",3,3157,15,4420,57
+"58","12568Pediatric ICU",12568,"Pediatric ICU",1,1104,1,615,58
+"59","12568Pediatric Ward",12568,"Pediatric Ward",1,2085,0,362,59
+"60","12568Surgical ICU",12568,"Surgical ICU",1,7653,11,8741,60
+"61","12568Surgical Ward",12568,"Surgical Ward",3,9491,4,7543,61
+"62","12574Medical/Surgical ICU (not major teaching)",12574,"Medical/Surgical ICU (not major teaching)",2,669,0,665,62
+"63","12574Medical/Surgical Ward (not major teaching)",12574,"Medical/Surgical Ward (not major teaching)",0,1186,0,771,63
+"64","12576Medical/Surgical ICU (not major teaching)",12576,"Medical/Surgical ICU (not major teaching)",4,2623,1,1568,64
+"65","12576Medical/Surgical Ward (not major teaching)",12576,"Medical/Surgical Ward (not major teaching)",2,6045,3,3615,65
+"66","12576Surgical ICU",12576,"Surgical ICU",0,1175,0,890,66
+"67","12578Cardiac ICU",12578,"Cardiac ICU",1,1068,2,1224,67
+"68","12578Cardiothoracic ICU",12578,"Cardiothoracic ICU",0,1094,0,955,68
+"69","12578Medical ICU (not major teaching)",12578,"Medical ICU (not major teaching)",2,1247,1,1293,69
+"70","12578Medical/Surgical Ward (not major teaching)",12578,"Medical/Surgical Ward (not major teaching)",0,4726,7,3580,70
+"71","12582Medical Ward (not major teaching)",12582,"Medical Ward (not major teaching)",0,840,2,1774,71
+"72","12582Medical/Surgical ICU (not major teaching)",12582,"Medical/Surgical ICU (not major teaching)",1,1391,2,2073,72
+"73","12582Medical/Surgical Ward (not major teaching)",12582,"Medical/Surgical Ward (not major teaching)",0,817,2,1949,73
+"74","12588Medical Ward (not major teaching)",12588,"Medical Ward (not major teaching)",0,538,0,203,74
+"75","12588Medical/Surgical ICU (not major teaching)",12588,"Medical/Surgical ICU (not major teaching)",0,636,0,1034,75
+"76","12588Medical/Surgical Ward (not major teaching)",12588,"Medical/Surgical Ward (not major teaching)",0,2976,0,2512,76
+"77","12588Pediatric Ward",12588,"Pediatric Ward",0,0,0,0,77
+"78","12596Cardiac ICU",12596,"Cardiac ICU",2,2097,4,2013,78
+"79","12596Cardiothoracic ICU",12596,"Cardiothoracic ICU",3,5800,3,5737,79
+"80","12596Medical ICU (major teaching)",12596,"Medical ICU (major teaching)",6,4411,3,4572,80
+"81","12596Medical Ward (major teaching)",12596,"Medical Ward (major teaching)",4,6182,6,2711,81
+"82","12596Medical/Surgical Ward (major teaching)",12596,"Medical/Surgical Ward (major teaching)",1,3602,8,3325,82
+"83","12596Neonatal ICU",12596,"Neonatal ICU",3,1640,NA,NA,83
+"84","12596Surgical ICU",12596,"Surgical ICU",11,4762,22,7631,84
+"85","12596Surgical Ward",12596,"Surgical Ward",8,15917,11,11110,85
+"86","12598Medical/Surgical ICU (not major teaching)",12598,"Medical/Surgical ICU (not major teaching)",1,842,0,935,86
+"87","12598Medical/Surgical Ward (not major teaching)",12598,"Medical/Surgical Ward (not major teaching)",0,616,0,760,87
+"88","12599Cardiothoracic ICU",12599,"Cardiothoracic ICU",0,398,0,398,88
+"89","12599Medical/Surgical ICU (major teaching)",12599,"Medical/Surgical ICU (major teaching)",7,6016,7,6154,89
+"90","12599Medical/Surgical Ward (major teaching)",12599,"Medical/Surgical Ward (major teaching)",1,2422,5,2595,90
+"91","12599Neonatal ICU",12599,"Neonatal ICU",0,213,NA,NA,91
+"92","12599Surgical Ward",12599,"Surgical Ward",1,1717,2,1385,92
+"93","12600Medical Ward (not major teaching)",12600,"Medical Ward (not major teaching)",0,1110,2,1806,93
+"94","12600Medical/Surgical ICU (not major teaching)",12600,"Medical/Surgical ICU (not major teaching)",0,808,2,1352,94
+"95","12600Medical/Surgical Ward (not major teaching)",12600,"Medical/Surgical Ward (not major teaching)",0,32,0,54,95
+"96","12601Medical/Surgical ICU (not major teaching)",12601,"Medical/Surgical ICU (not major teaching)",0,850,1,1288,96
+"97","12601Medical/Surgical Ward (not major teaching)",12601,"Medical/Surgical Ward (not major teaching)",2,654,1,1080,97
+"98","12618Medical ICU (major teaching)",12618,"Medical ICU (major teaching)",1,110,0,240,98
+"99","12618Medical Ward (major teaching)",12618,"Medical Ward (major teaching)",1,2256,4,2423,99
+"100","12618Medical/Surgical ICU (major teaching)",12618,"Medical/Surgical ICU (major teaching)",0,589,2,1279,100
+"101","12618Pediatric Ward",12618,"Pediatric Ward",0,1,0,21,101
+"102","12618Surgical Ward",12618,"Surgical Ward",0,787,0,1011,102
+"103","12619Medical/Surgical ICU (not major teaching)",12619,"Medical/Surgical ICU (not major teaching)",0,599,1,979,103
+"104","12619Medical/Surgical Ward (not major teaching)",12619,"Medical/Surgical Ward (not major teaching)",1,715,0,1137,104
+"105","12622Medical/Surgical ICU (not major teaching)",12622,"Medical/Surgical ICU (not major teaching)",0,2231,1,3022,105
+"106","12622Medical/Surgical Ward (not major teaching)",12622,"Medical/Surgical Ward (not major teaching)",1,3548,3,4875,106
+"107","12630Cardiac ICU",12630,"Cardiac ICU",0,621,1,493,107
+"108","12630Medical ICU (major teaching)",12630,"Medical ICU (major teaching)",1,2783,2,1385,108
+"109","12630Medical Ward (major teaching)",12630,"Medical Ward (major teaching)",4,7416,3,1924,109
+"110","12630Neonatal ICU",12630,"Neonatal ICU",0,827,NA,NA,110
+"111","12630Pediatric ICU",12630,"Pediatric ICU",0,75,0,49,111
+"112","12630Pediatric Ward",12630,"Pediatric Ward",0,109,0,10,112
+"113","12630Surgical ICU",12630,"Surgical ICU",3,3455,7,3426,113
+"114","12630Surgical Ward",12630,"Surgical Ward",4,2964,3,2315,114
+"115","12630Trauma ICU",12630,"Trauma ICU",0,0,0,0,115
+"116","12643Medical/Surgical ICU (not major teaching)",12643,"Medical/Surgical ICU (not major teaching)",0,1723,1,2276,116
+"117","12643Medical/Surgical Ward (not major teaching)",12643,"Medical/Surgical Ward (not major teaching)",1,4237,1,4770,117
+"118","12654Medical Ward (not major teaching)",12654,"Medical Ward (not major teaching)",1,971,0,1088,118
+"119","12654Medical/Surgical ICU (not major teaching)",12654,"Medical/Surgical ICU (not major teaching)",0,581,2,1425,119
+"120","12654Surgical Ward",12654,"Surgical Ward",0,547,0,857,120
+"121","12670Medical/Surgical ICU (not major teaching)",12670,"Medical/Surgical ICU (not major teaching)",1,824,1,1286,121
+"122","12670Medical/Surgical Ward (not major teaching)",12670,"Medical/Surgical Ward (not major teaching)",1,1414,2,2704,122
+"123","12674Medical Ward (not major teaching)",12674,"Medical Ward (not major teaching)",2,1300,1,336,123
+"124","12674Medical/Surgical ICU (not major teaching)",12674,"Medical/Surgical ICU (not major teaching)",3,3098,1,3909,124
+"125","12674Medical/Surgical Ward (not major teaching)",12674,"Medical/Surgical Ward (not major teaching)",2,1457,1,2135,125
+"126","12674Surgical Ward",12674,"Surgical Ward",2,612,1,790,126
+"127","12679Cardiothoracic ICU",12679,"Cardiothoracic ICU",1,1187,1,1182,127
+"128","12679Medical ICU (major teaching)",12679,"Medical ICU (major teaching)",8,5461,4,6208,128
+"129","12679Medical Ward (major teaching)",12679,"Medical Ward (major teaching)",10,8919,8,6993,129
+"130","12679Medical/Surgical Ward (major teaching)",12679,"Medical/Surgical Ward (major teaching)",3,3605,7,4423,130
+"131","12679Surgical ICU",12679,"Surgical ICU",5,4315,7,3716,131
+"132","12679Surgical Ward",12679,"Surgical Ward",1,1333,2,1811,132
+"133","12685Medical/Surgical ICU (not major teaching)",12685,"Medical/Surgical ICU (not major teaching)",0,565,0,1011,133
+"134","12685Medical/Surgical Ward (not major teaching)",12685,"Medical/Surgical Ward (not major teaching)",2,849,1,907,134
+"135","12686Medical ICU (not major teaching)",12686,"Medical ICU (not major teaching)",0,322,0,809,135
+"136","12686Medical/Surgical Ward (not major teaching)",12686,"Medical/Surgical Ward (not major teaching)",1,460,0,1184,136
+"137","12698Neonatal ICU",12698,"Neonatal ICU",4,4215,NA,NA,137
+"138","12698Pediatric ICU",12698,"Pediatric ICU",16,15755,8,4155,138
+"139","12698Pediatric Ward",12698,"Pediatric Ward",14,15016,2,2093,139
+"140","12700Medical/Surgical ICU (not major teaching)",12700,"Medical/Surgical ICU (not major teaching)",0,1297,5,2426,140
+"141","12700Medical/Surgical Ward (not major teaching)",12700,"Medical/Surgical Ward (not major teaching)",0,1548,5,3428,141
+"142","12703Medical Ward (major teaching)",12703,"Medical Ward (major teaching)",0,868,1,599,142
+"143","12703Medical/Surgical ICU (major teaching)",12703,"Medical/Surgical ICU (major teaching)",3,1964,5,1882,143
+"144","12703Surgical Ward",12703,"Surgical Ward",0,411,0,987,144
+"145","12705Pediatric ICU",12705,"Pediatric ICU",5,926,2,473,145
+"146","12708Medical/Surgical ICU (not major teaching)",12708,"Medical/Surgical ICU (not major teaching)",0,40,0,126,146
+"147","12708Medical/Surgical Ward (not major teaching)",12708,"Medical/Surgical Ward (not major teaching)",0,277,0,474,147
+"148","12709Medical/Surgical ICU (not major teaching)",12709,"Medical/Surgical ICU (not major teaching)",0,396,1,715,148
+"149","12714Medical/Surgical ICU (not major teaching)",12714,"Medical/Surgical ICU (not major teaching)",0,348,1,372,149
+"150","12714Medical/Surgical Ward (not major teaching)",12714,"Medical/Surgical Ward (not major teaching)",1,471,1,848,150
+"151","12751Medical/Surgical Ward (not major teaching)",12751,"Medical/Surgical Ward (not major teaching)",0,20,0,359,151
+"152","12752Medical Ward (major teaching)",12752,"Medical Ward (major teaching)",0,339,0,448,152
+"153","12752Medical/Surgical ICU (major teaching)",12752,"Medical/Surgical ICU (major teaching)",0,527,0,407,153
+"154","12752Medical/Surgical Ward (major teaching)",12752,"Medical/Surgical Ward (major teaching)",0,890,1,1200,154
+"155","12752Pediatric Ward",12752,"Pediatric Ward",0,0,0,0,155
+"156","12752Surgical Ward",12752,"Surgical Ward",0,336,0,810,156
+"157","12778Medical Ward (major teaching)",12778,"Medical Ward (major teaching)",0,638,2,1224,157
+"158","12778Medical/Surgical ICU (major teaching)",12778,"Medical/Surgical ICU (major teaching)",0,218,0,463,158
+"159","12793Medical/Surgical ICU (major teaching)",12793,"Medical/Surgical ICU (major teaching)",2,2052,5,2449,159
+"160","12793Medical/Surgical Ward (major teaching)",12793,"Medical/Surgical Ward (major teaching)",0,3611,1,2671,160
+"161","12793Pediatric Ward",12793,"Pediatric Ward",0,1,0,9,161
+"162","12808Medical/Surgical ICU (not major teaching)",12808,"Medical/Surgical ICU (not major teaching)",0,3371,1,4002,162
+"163","12808Medical/Surgical Ward (not major teaching)",12808,"Medical/Surgical Ward (not major teaching)",3,8420,7,6012,163
+"164","12808Neonatal ICU",12808,"Neonatal ICU",0,527,NA,NA,164
+"165","12808Pediatric Ward",12808,"Pediatric Ward",0,53,0,2,165
+"166","12808Surgical Ward",12808,"Surgical Ward",0,293,0,265,166
+"167","12833Medical ICU (not major teaching)",12833,"Medical ICU (not major teaching)",0,353,0,277,167
+"168","12837Medical/Surgical ICU (not major teaching)",12837,"Medical/Surgical ICU (not major teaching)",0,626,0,870,168
+"169","12837Medical/Surgical Ward (not major teaching)",12837,"Medical/Surgical Ward (not major teaching)",0,1001,1,1070,169
+"170","12837Surgical Ward",12837,"Surgical Ward",0,0,0,248,170
+"171","12866Medical/Surgical ICU (not major teaching)",12866,"Medical/Surgical ICU (not major teaching)",0,417,0,673,171
+"172","12866Medical/Surgical Ward (not major teaching)",12866,"Medical/Surgical Ward (not major teaching)",0,607,0,1300,172
+"173","12875Medical ICU (major teaching)",12875,"Medical ICU (major teaching)",0,508,0,1226,173
+"174","12875Medical Ward (major teaching)",12875,"Medical Ward (major teaching)",0,405,0,1223,174
+"175","12955Medical Ward (major teaching)",12955,"Medical Ward (major teaching)",0,1989,3,1937,175
+"176","12955Medical/Surgical ICU (major teaching)",12955,"Medical/Surgical ICU (major teaching)",1,684,4,711,176
+"177","12955Medical/Surgical Ward (major teaching)",12955,"Medical/Surgical Ward (major teaching)",1,211,1,206,177
+"178","12955Surgical Ward",12955,"Surgical Ward",0,759,1,796,178
+"179","13000Cardiac ICU",13000,"Cardiac ICU",1,1503,2,1064,179
+"180","13000Cardiothoracic ICU",13000,"Cardiothoracic ICU",5,3454,1,2912,180
+"181","13000Medical ICU (major teaching)",13000,"Medical ICU (major teaching)",3,3794,5,2545,181
+"182","13000Medical Ward (major teaching)",13000,"Medical Ward (major teaching)",11,12892,9,4145,182
+"183","13000Medical/Surgical ICU (major teaching)",13000,"Medical/Surgical ICU (major teaching)",1,2368,2,1325,183
+"184","13000Neonatal ICU",13000,"Neonatal ICU",1,958,NA,NA,184
+"185","13000Neurosurgical ICU",13000,"Neurosurgical ICU",0,1663,3,1106,185
+"186","13000Surgical ICU",13000,"Surgical ICU",1,1601,0,1386,186
+"187","13000Surgical Ward",13000,"Surgical Ward",1,2044,4,2922,187
+"188","13000Trauma ICU",13000,"Trauma ICU",1,1892,3,1860,188
+"189","13022Medical/Surgical ICU (not major teaching)",13022,"Medical/Surgical ICU (not major teaching)",0,325,1,577,189
+"190","13022Medical/Surgical Ward (not major teaching)",13022,"Medical/Surgical Ward (not major teaching)",0,349,1,613,190
+"191","13022Pediatric Ward",13022,"Pediatric Ward",0,0,0,5,191
+"192","13091Medical/Surgical ICU (not major teaching)",13091,"Medical/Surgical ICU (not major teaching)",2,1675,0,2114,192
+"193","13091Medical/Surgical Ward (not major teaching)",13091,"Medical/Surgical Ward (not major teaching)",0,627,2,843,193
+"194","13098Medical/Surgical Ward (not major teaching)",13098,"Medical/Surgical Ward (not major teaching)",0,452,0,422,194
+"195","13098Pediatric Ward",13098,"Pediatric Ward",0,12,0,4,195
+"196","13116Medical ICU (major teaching)",13116,"Medical ICU (major teaching)",3,2184,1,2470,196
+"197","13116Medical Ward (major teaching)",13116,"Medical Ward (major teaching)",1,4156,6,3784,197
+"198","13116Medical/Surgical Ward (major teaching)",13116,"Medical/Surgical Ward (major teaching)",0,358,0,619,198
+"199","13174Medical ICU (not major teaching)",13174,"Medical ICU (not major teaching)",0,442,0,1050,199
+"200","13174Medical Ward (not major teaching)",13174,"Medical Ward (not major teaching)",0,1009,0,1169,200
+"201","13189Medical/Surgical ICU (not major teaching)",13189,"Medical/Surgical ICU (not major teaching)",0,7,0,92,201
+"202","13189Medical/Surgical Ward (not major teaching)",13189,"Medical/Surgical Ward (not major teaching)",0,20,0,226,202
+"203","13201Medical/Surgical ICU (not major teaching)",13201,"Medical/Surgical ICU (not major teaching)",0,557,3,1314,203
+"204","13201Medical/Surgical Ward (not major teaching)",13201,"Medical/Surgical Ward (not major teaching)",1,667,2,1864,204
+"205","13201Pediatric Ward",13201,"Pediatric Ward",0,3,0,8,205
+"206","13206Medical/Surgical Ward (not major teaching)",13206,"Medical/Surgical Ward (not major teaching)",0,39,0,58,206
+"207","13206Pediatric Ward",13206,"Pediatric Ward",0,0,0,0,207
+"208","13213Medical/Surgical ICU (not major teaching)",13213,"Medical/Surgical ICU (not major teaching)",0,189,0,415,208
+"209","13213Medical/Surgical Ward (not major teaching)",13213,"Medical/Surgical Ward (not major teaching)",1,890,0,1252,209
+"210","13215Medical/Surgical ICU (not major teaching)",13215,"Medical/Surgical ICU (not major teaching)",1,527,0,946,210
+"211","13215Medical/Surgical Ward (not major teaching)",13215,"Medical/Surgical Ward (not major teaching)",0,1150,1,1278,211
+"212","13230Medical Ward (not major teaching)",13230,"Medical Ward (not major teaching)",0,421,0,972,212
+"213","13230Medical/Surgical ICU (not major teaching)",13230,"Medical/Surgical ICU (not major teaching)",1,626,0,922,213
+"214","13230Medical/Surgical Ward (not major teaching)",13230,"Medical/Surgical Ward (not major teaching)",0,215,0,393,214
+"215","13230Surgical Ward",13230,"Surgical Ward",1,389,0,797,215
+"216","13290Medical/Surgical ICU (not major teaching)",13290,"Medical/Surgical ICU (not major teaching)",0,110,0,260,216
+"217","13290Medical/Surgical Ward (not major teaching)",13290,"Medical/Surgical Ward (not major teaching)",0,68,0,393,217
+"218","13298Medical/Surgical ICU (major teaching)",13298,"Medical/Surgical ICU (major teaching)",2,804,2,1245,218
+"219","13298Medical/Surgical Ward (major teaching)",13298,"Medical/Surgical Ward (major teaching)",3,1242,5,2831,219
+"220","13301Medical/Surgical ICU (not major teaching)",13301,"Medical/Surgical ICU (not major teaching)",1,528,0,726,220
+"221","13301Medical/Surgical Ward (not major teaching)",13301,"Medical/Surgical Ward (not major teaching)",0,617,0,906,221
+"222","13309Medical/Surgical ICU (not major teaching)",13309,"Medical/Surgical ICU (not major teaching)",0,188,2,360,222
+"223","13309Medical/Surgical Ward (not major teaching)",13309,"Medical/Surgical Ward (not major teaching)",0,229,0,618,223
+"224","13348Medical/Surgical ICU (major teaching)",13348,"Medical/Surgical ICU (major teaching)",5,3828,9,4989,224
+"225","13348Medical/Surgical Ward (major teaching)",13348,"Medical/Surgical Ward (major teaching)",6,3675,2,6629,225
+"226","13381Medical/Surgical Ward (not major teaching)",13381,"Medical/Surgical Ward (not major teaching)",0,311,0,490,226
+"227","14175Medical ICU (not major teaching)",14175,"Medical ICU (not major teaching)",0,151,0,274,227
+"228","14175Medical Ward (not major teaching)",14175,"Medical Ward (not major teaching)",0,421,0,582,228
+"229","14360Medical Ward (major teaching)",14360,"Medical Ward (major teaching)",0,31,0,113,229
+"230","53639Medical ICU (major teaching)",53639,"Medical ICU (major teaching)",3,1369,0,2422,230
+"231","53639Medical Ward (major teaching)",53639,"Medical Ward (major teaching)",3,2575,5,4410,231
+"232","53639Neonatal ICU",53639,"Neonatal ICU",2,1341,NA,NA,232
+"233","53639Surgical ICU",53639,"Surgical ICU",0,819,0,1092,233
+"234","53639Surgical Ward",53639,"Surgical Ward",0,2241,2,2117,234
+"235","57659Medical Ward (major teaching)",57659,"Medical Ward (major teaching)",0,59,0,87,235

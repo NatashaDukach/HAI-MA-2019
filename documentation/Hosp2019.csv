@@ -1,0 +1,72 @@
+,HospRowID,H9Name,H9Affiliation,H9HospType,H9ProfitStatus,H9Beds,H9ICUBeds,H9NumAdm,H9NumPatDays
+10482,1,"Baystate Medical Center - Springfield, MA",Yes,Major teaching,Not-for-profit,791,102,42682,219290
+11303,2,"UMass Memorial Medical Center - University Campus - Worcester, MA",Yes,Major teaching,Not-for-profit,405,91,22729,143385
+11571,3,"Beverly Hospital - Lahey Health - Beverly, MA",No,Nonteaching,Not-for-profit,211,14,22640,78992
+11558,4,"Tufts Medical Center - Boston, MA",Yes,Major teaching,Not-for-profit,407,98,17367,102731
+12468,5,"Brockton Hospital - Signature Healthcare - Brockton, MA",Yes,Graduate teaching,Not-for-profit,216,16,5799,56868
+12515,6,"Cape Cod Hospital - Cape Cod Healthcare - Hyannis, MA",No,Nonteaching,Not-for-profit,246,22,23213,80975
+12516,7,"Falmouth Hospital - Cape Cod Healthcare - Falmouth, MA",No,Nonteaching,Not-for-profit,95,10,8034,26031
+12538,8,"Berkshire Medical Center - Berkshire Health Systems - Pittsfield, MA",Yes,Major teaching,Not-for-profit,298,20,14775,69800
+12568,9,"Massachusetts General Hospital - Boston, MA",Yes,Major teaching,Not-for-profit,1035,146,59583,337691
+12574,10,"Tobey Hospital - Southcoast Health - Wareham, MA",No,Nonteaching,Not-for-profit,74,10,5789,18340
+12576,11,"St. Lukes Hospital - Southcoast Health - New Bedford, MA",No,Nonteaching,Not-for-profit,391,32,21875,85705
+12578,12,"Charlton Memorial Hospital - Southcoast Health - Fall River, MA",No,Nonteaching,Not-for-profit,328,32,18571,80968
+12582,13,"Norwood Hospital - Steward Health Care - Norwood, MA",Yes,Undergraduate teaching,For-profit,231,11,13624,59214
+12588,14,"Saint Annes Hospital - Steward Health Care - Fall River, MA",Yes,Undergraduate teaching,For-profit,152,12,9908,49016
+12596,15,"Brigham and Womens Hospital - Boston, MA",Yes,Major teaching,Not-for-profit,851,163,55055,288709
+12598,16,"Holyoke Medical Center - Holyoke, MA",Yes,Undergraduate teaching,Not-for-profit,198,10,7578,23648
+12599,17,"St. Elizabeths Medical Center - Steward Health Care - Brighton, MA",Yes,Major teaching,For-profit,302,46,13463,75920
+12600,18,"Holy Family Hospital - Steward Health Care - Methuen, MA",Yes,Undergraduate teaching,For-profit,242,19,5304,47505
+12601,19,"Carney Hospital - Steward Health Care - Boston, MA",Yes,Graduate teaching,For-profit,93,8,5989,28262
+12618,20,"Newton-Wellesley Hospital - Newton, MA",Yes,Major teaching,Not-for-profit,337,12,20112,72723
+12619,21,"Morton Hospital - Steward Health Care - Taunton, MA",Yes,Undergraduate teaching,For-profit,125,12,5378,26099
+12622,22,"Good Samaritan Medical Center - Steward Health Care - Brockton, MA",Yes,Undergraduate teaching,For-profit,267,18,17472,76737
+12630,23,"Boston Medical Center - Boston, MA",Yes,Major teaching,Not-for-profit,487,89,25994,159159
+12643,24,"Beth Israel Deaconess Hospital - Plymouth - Plymouth, MA",Yes,Undergraduate teaching,Not-for-profit,170,13,12313,52508
+12654,25,"Winchester Hospital - Lahey Health - Winchester, MA",Yes,Graduate teaching,Not-for-profit,189,10,17614,54954
+12670,26,"Emerson Hospital - Concord, MA",No,Nonteaching,Not-for-profit,179,14,10039,26109
+12674,27,"Lowell General Hospital - Main Campus - Lowell, MA",No,Nonteaching,Not-for-profit,240,33,17016,78341
+12679,28,"Lahey Hospital & Medical Center - Lahey Health - Burlington, MA",Yes,Major teaching,Not-for-profit,335,52,24395,114157
+12685,29,"Anna Jaques Hospital - Newburyport, MA",No,Nonteaching,Not-for-profit,109,6,7003,30333
+12686,30,"Heywood Hospital - Gardner, MA",No,Nonteaching,Not-for-profit,134,6,7100,25895
+12698,31,"Boston Childrens Hospital - Boston, MA",Yes,Major teaching,Not-for-profit,404,107,15425,130928
+12700,32,"HealthAlliance Hospital - UMass Memorial Health Care - Leominster, MA",Yes,Graduate teaching,Not-for-profit,143,10,6540,25911
+12703,33,"Mount Auburn Hospital - Cambridge, MA",Yes,Major teaching,Not-for-profit,217,20,18925,65298
+12705,34,"Shriners Hospital for Children - Boston - Boston, MA",No,Nonteaching,Not-for-profit,14,4,1073,2807
+12708,35,"Baystate Noble Hospital - Westfield, MA",No,Nonteaching,Not-for-profit,97,0,2550,16285
+12709,36,"New England Baptist Hospital - Boston, MA",Yes,Graduate teaching,Not-for-profit,118,8,8281,19611
+12714,37,"Lowell General Hospital - Saints Campus - Lowell, MA",No,Nonteaching,Not-for-profit,70,10,3457,16731
+12751,38,"Clinton Hospital - UMass Memorial Health Care - Clinton, MA",No,Nonteaching,Not-for-profit,41,0,895,9398
+12752,39,"Milford Regional Medical Center - Milford, MA",Yes,Major teaching,Not-for-profit,149,10,10095,41150
+12778,40,"Baystate Franklin Medical Center - Greenfield, MA",Yes,Major teaching,Not-for-profit,107,6,4764,19019
+12793,41,"Lawrence General Hospital - Lawrence, MA",Yes,Major teaching,Not-for-profit,189,19,11950,46324
+12808,42,"South Shore Hospital - South Weymouth, MA",Yes,Graduate teaching,Not-for-profit,393,54,33966,128280
+12833,43,"Marthas Vineyard Hospital - Oak Bluffs, MA",No,Nonteaching,Not-for-profit,25,3,1350,1594
+12837,44,"Cooley Dickinson Hospital - Northampton, MA",Yes,Undergraduate teaching,Not-for-profit,140,11,8665,32858
+12866,45,"Beth Israel Deaconess Hospital - Needham - Needham, MA",No,Nonteaching,Not-for-profit,58,7,3919,13293
+12875,46,"Marlborough Hospital - UMass Memorial Health Care - Marlborough, MA",Yes,Major teaching,For-profit,79,10,3210,16319
+12955,47,"Faulkner Hospital - Brigham and Womens - Boston, MA",Yes,Major teaching,Not-for-profit,169,6,10363,47473
+13000,48,"Beth Israel Deaconess Medical Center - Boston, MA",Yes,Major teaching,Not-for-profit,783,124,45469,255610
+13022,49,"Harrington Memorial Hospital - Southbridge, MA",No,Nonteaching,Not-for-profit,125,6,4603,19714
+13091,50,"Mercy Medical Center - Springfield, MA",Yes,Undergraduate teaching,Not-for-profit,251,16,11748,47588
+13098,51,"Massachusetts Eye and Ear Infirmary - Boston, MA",Yes,Graduate teaching,Not-for-profit,41,0,1129,4383
+13116,52,"Salem Hospital - North Shore Medical Center - Salem, MA",Yes,Major teaching,Not-for-profit,301,32,16762,20971
+13174,53,"Sturdy Memorial Hospital - Attleboro, MA",Yes,Undergraduate teaching,Not-for-profit,126,14,10550,35101
+13189,54,"Fairview Hospital - Berkshire Health Systems - Great Barrington, MA",No,Nonteaching,Not-for-profit,25,4,815,3145
+13201,55,"Framingham Union Hospital - MetroWest Medical Center - Framingham, MA",Yes,Graduate teaching,For-profit,149,12,7152,25101
+13206,56,"Nantucket Cottage Hospital - Nantucket, MA",No,Nonteaching,Not-for-profit,14,0,781,2209
+13213,57,"Cambridge Hospital - Cambridge Health Alliance - Cambridge, MA",Yes,Graduate teaching,Not-for-profit,145,8,7009,33552
+13215,58,"Everett Hospital - Cambridge Health Alliance - Everett, MA",Yes,Graduate teaching,Not-for-profit,96,8,5135,28133
+13230,59,"Beth Israel Deaconess Hospital - Milton - Milton, MA",No,Nonteaching,Not-for-profit,100,8,8001,25785
+13262,60,"Athol Memorial Hospital - Athol, MA",No,Nonteaching,Not-for-profit,25,0,942,4229
+13290,61,"Nashoba Valley Medical Center - Steward Health Care - Ayer, MA",No,Nonteaching,For-profit,77,6,2755,13084
+13298,62,"Melrose-Wakefield Hospital - MelroseWakefield Healthcare - Melrose, MA",Yes,Major teaching,Not-for-profit,142,8,12136,40304
+13301,63,"Holy Family Hospital at Merrimack Valley - Steward Health Care - Haverhill, MA",No,Nonteaching,For-profit,124,10,2847,17203
+13309,64,"Leonard Morse Hospital - MetroWest Medical Center - Natick, MA",No,Nonteaching,For-profit,29,4,3845,32332
+13348,65,"Saint Vincent Hospital - Worcester, MA",Yes,Major teaching,For-profit,282,37,17425,80842
+13381,66,"Baystate Wing Hospital - Palmer, MA",No,Nonteaching,Not-for-profit,74,6,3392,16172
+14175,67,"Addison Gilbert Hospital - Lahey Health - Gloucester, MA",No,Nonteaching,Not-for-profit,79,8,3075,12331
+14360,68,"Union Hospital - North Shore Medical Center - Lynn, MA",Yes,Major teaching,Not-for-profit,74,0,2358,18674
+30172,69,"Dana-Farber Cancer Institute - Boston, MA",Yes,Major teaching,Not-for-profit,30,0,1332,10548
+53639,70,"UMass Memorial Medical Center - Memorial Campus - Worcester, MA",Yes,Major teaching,Not-for-profit,302,88,19500,87461
+57659,71,"Lahey Medical Center - Peabody - Peabody, MA",Yes,Major teaching,Not-for-profit,10,0,1133,2652

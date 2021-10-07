@@ -1,5 +1,5 @@
 # MA HAI infections rates compared across 71 MA hospitals
-# Data was scraped from teh official mass.gov website multiple PDFs
+# Data was scraped from the official mass.gov website multiple PDFs
 
 library(dplyr)
 library(shiny)
@@ -100,31 +100,44 @@ ui <- navbarPage("Massachusetts Healthcare Associated Infections Interactive Rep
                             br(),h5(tags$li(strong("
                           Nosocomial infections"), "or healthcare-associated infections (HAI),
                           are infection(s) acquired during the process of receiving health care
-                          that was not present during the time of admission."),
+                          that was not present during the time of admission. High HAI rates are the fault of the hospital, 
+                          and indicate low healthcare quality. 
+                          This is because HAIs caused in patients by the hospital can severely injure or even kill a patient."),
+                                    br(),
+                                    tags$ul(tags$li("The most common HAIs are central line-associated bloodstream infections (CLABSI) and catheter-associated 
+                                    urinary tract infections (CAUTI). These are possible for patients to get when they are catheterized improperly in the intensive
+                                    care unit (ICU) setting.")),
                                     br(),
                                     tags$ul(tags$li("A central line bloodstream infection", strong("(CLABSI)"), "occurs when bacteria or other germs enter the patient's central line
                                   and then enter into their bloodstream."),
+                                            br(),
                                   tags$li(strong("Central line-days:"), "The total number of days a central line is in place for each patient in the intensive care unit (ICU). 
                                                     The count is performed each day, and each patient with a central line is counted as a central line-day.")),
                                     br(),
                                     tags$ul(tags$li("Catheter-associated urinary tract Infection, or", strong("CAUTI"), 
                                             "is a urinary tract infection associated with urinary catheter use."),
+                                            br(),
                                             tags$li(strong("Indwelling urinary catheter days:"),"the number of patients with an indwelling urinary catheter 
                                                     device multiplied by the number of days on the device. 
                                                     The daily counts are added up for the entire year to give the catheter days for that year.")),
                                     br(),
-                                    tags$li("Massachusetts posts information to a", 
-                                            tags$a(href="https://www.mass.gov/lists/healthcare-associated-infections-reports","web page",target="_blank"),
-                                            "for each year, and the most recent dataset available was for 2019.",
+                                  
+                                    tags$li("Massachusetts hospitals are required by regulation to participate in the NHSN,
+                                    (the National Healthcare Safety Network which is a federal voluntary program).
+                                    However, scientific studies have shown the data in then NHSN represent an undercount.
+                                            Massachusetts has open data government (ODG) regulations the require data sharing about healthcare quality, 
+                                            so Massachusetts department of public health (DPH) issues ", 
+                                            tags$a(href="https://www.mass.gov/lists/healthcare-associated-infections-reports","the dashboard",target="_blank"),
+                                            "for each year, and the most recent data available are for 2019."),
                                             br(),br(),
-                                            tags$li("When we tried to download the data behind the dashboard, we were only provided access to a",
+                                            tags$li("We were unable to download the data from the original Massachusetts DPH dashboard. The dashboard provides only individual",
                                                     tags$a(href="https://mdphgis.maps.arcgis.com/apps/MapSeries/index.html?appid=b6376f9d84cb46c996a15e3bc22dcbb3",
-                                                           "PDF report", target="_blank"),"separate for each hospital and not color-coded for 
-                                                           hospital-acquired infection rates on the map."),
+                                                           "PDF records", target="_blank"),"with data on them."),
                                             br(),
-                                            tags$li("We scraped data from the hospital reports. Scraping was done in R software - a loop was used which 
-                          crawled through each report extracting the data in to memory. This was done in conjunction with the PDFTABLES 
-                          package, which is essentially an online application that applies structure to the unstructured tabular data placed in memory."),
+                                            tags$li("These reports were downloaded and the data from them scraped in RStudio using packages 'pdftools'
+                                            and 'pdftables' into a logical data structure. Data were analyzed in R to prioritize rates so we could determine
+                                            which HAI would drive the display and the comparison between hospitals. We chose CAUTI because it is prevalent (because urinary catheterization is common) 
+                                            and can result in death, and it was highly correlated with CLABSI and other infectionrates"),
                                             br(),
                                             tags$li("In order to use this online application, 
                           an application programming interface (API) key is issued from the PDF Tables web site, 
@@ -133,23 +146,30 @@ ui <- navbarPage("Massachusetts Healthcare Associated Infections Interactive Rep
                                             tags$li("The code resulted in the data being processed in to a series of unstructured *.xlsx files and downloaded locally.
                           Then, in a final data cleaning step, data were transformed into the tables in the usable format for the interactive dashboard."),
                                             br(),
-                                            h4("Visualizing healthcare-associated infections data:"),
-                                            br(),
-                                            tags$p("Using the hospital and ICU tables from the scrape, 
-                          we calculated rates of CLABSI and CAUTI. We found that CAUTI and CLABSI rates were highly correlated in hospitals, 
-                          but CAUTI rates were higher overall, and we observed more high outliers at the ICU level."),
-                                            tags$p("We color-coded hospital CAUTI rates divided by quantile cut-offs. 
-                            Also, the evidence from data suggested that type of ICU was a driver of distribution of infections
-                            (see the pop-up data table on the main page)."),
+                                            strong("Visualizing healthcare-associated infections data:"),
+                                            br(),br(),
+                                  tags$li("To calculate the CAUTI rate, we used the numerator of number of CAUTI cases in 2019 in the data per hospital.
+                                            We chose to use number of admissions in 2019 as our denominator for the CAUTI rate rather than 
+                                            catheter-days, as we wanted to preserve the concept of the individual. We would have preferred 
+                                                   to use ICU admissions or number of people catheterized as the denominator, 
+                                                   but those data were not available."),
+                                  br(),
+                                  tags$li("We used crude CAUTI rates divided by quantile cut-offs for color-coding on the map."),
+                                  br(),
+                                  tags$li("In the 'View rates by ICU Type' pop-up data table on the main page we adjusted CAUTI and CLABSI 
+                                  rates for each ICU per hospital. 
+                                  Each ICU rate was multiplied by the weight (proportion of catheter and central line days assigned to that setting)."),
+                                  br(),
+                                  tags$li("Press the button below to see the Types and the Number of Intensive Care Units in Massachusetts, 2019"), 
+                                  br(),
                                             # tipify(bsButton("pB2", "Button", style = "inverse", size = "small"),
-                                            #        "This button is pointless too!"),
+                                            #        "example of pointless button"),
                                             actionButton("show", "Show ICU Types"),
                                             br(), br(),
                                             bsModal("model", "ICU Types", "show"),
-                                            tags$p("We adjusted CAUTI and CLABSI rates for each ICU, each specific ICU rate was multiplied it by the weight (proportion of catheter and central line days
-                            assigned to that setting).")
+                                            
                                     ))
-                          )))
+                          ))
 
 ## Server
 
@@ -184,8 +204,9 @@ server <- function(input, output, session) {
       setView(lng = -71.91, lat = 42.34, zoom = 8.5) %>%
       addLegend("bottomright",
                 colors = c("green", "orange", "red", "black"), 
-                labels= c("0-25th percentile","less than/equal to 50th percentile", "more than 50th to less than/equal to 75th percentile", "above 75th percentile"),
-                title= "Colors are based on percentiles of catheter-associated infection rates. (read: 'Data collection')",
+                labels= c("Least probable: (0 to 25 percentile)","Somewhat probable: (less or equal to 50 percentile)", "More probable: 
+                          (more than 50 - less or equal to 75 percentile)", "Most probable: (above 75th percentile)"),
+                title= "Colors are based on percentiles of catheter-associated infection crude rates. (read: 'Data collection')",
                 opacity = 0.6)
   })
   
@@ -270,4 +291,3 @@ server <- function(input, output, session) {
 
 
 shinyApp(ui, server)
-
